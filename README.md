@@ -1,6 +1,6 @@
 # Data Collection workshop
 
-ใน Workshop นี้จะมี Step ดังนี้
+ใน Workshop นี้จะทำบน Google Colab โดยจะมี Step ดังนี้
 1) ดึงข้อมูลจาก MySQL
 2) ดึงข้อมูลจาก API
 3) Merge / Join ข้อมูล
